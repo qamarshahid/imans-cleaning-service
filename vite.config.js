@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/imans-cleaning-service/',
+  base: '/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
